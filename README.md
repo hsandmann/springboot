@@ -24,5 +24,6 @@ Swagger
 
 Security
 
+[JWT - Json Web Token](https://jwt.io/)
 
 Benchmark
